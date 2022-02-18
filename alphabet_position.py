@@ -13,4 +13,4 @@ def alphabet_position(text):
     return ' '.join(map(str,ch))
 
 
-print(alphabet_position("The sunset sets at twelve o' clock."))
+print(alphabet_position("Fuck you"))
